@@ -175,9 +175,12 @@ export function SettingsScreen({ onBack, onReset, settings, onUpdateSettings }: 
 
               <div>
                 <h4 className="text-white mb-2">Поддержка</h4>
-                <p className="text-sm leading-relaxed">
-                  Если вам нужна профессиональная помощь в процессе самопознания, 
+                <p className="text-sm leading-relaxed mb-2">
+                  Если вам нужна профессиональная помощь в процессе самопознания,
                   рекомендуем обратиться к квалифицированному психологу или психотерапевту.
+                </p>
+                <p className="text-sm leading-relaxed">
+                  <strong>Контакты:</strong> Telegram @ilhom_upgrade
                 </p>
               </div>
 
